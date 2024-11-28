@@ -13,11 +13,11 @@ Consigli del giorno:
 
 Inizio un ciclo for con contatore = 1 ed itero fino a quando il valore sarà <= 100
 
-    se contatore modulo = 3 stampo Fizz
+    se contatore modulo = 3 e 5 stampo FizzBuzz
+
+    altrimenti se contatore modulo = 3 stampo Fizz
 
     altrimenti se contatore modulo = 5 stampo Buzz
-
-    altrimenti se contatore modulo = 3 e 5 stampo FizzBuzz
 
     altrimenti stampo contatore
 
